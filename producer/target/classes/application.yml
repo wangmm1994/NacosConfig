@@ -1,0 +1,10 @@
+server:
+  port: 8088
+spring:
+  application:
+    name: producer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://180.76.243.71:8848/
+

@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: http://180.76.243.71:8848
+        file-extension: properties

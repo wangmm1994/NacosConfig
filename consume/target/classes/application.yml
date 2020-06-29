@@ -1,0 +1,9 @@
+server:
+  port: 8089
+spring:
+  application:
+    name: consume
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://180.76.243.71:8848/
