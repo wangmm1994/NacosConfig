@@ -11,7 +11,7 @@ public class HelloController {
 
     @RequestMapping(value = "/echo/{string}", method = RequestMethod.GET)
     public String echo(@PathVariable String string) {
-        System.out.println("produ8ce");
+        System.out.println("produ-08ce");
         return  "Hello Nacos Discovery121， " + string;
     }
 }
