@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ConsumeApplicationTests {
 
     @Test
-    void contextLoad() {
+    void contextLoad1() {
     }
 
 }
