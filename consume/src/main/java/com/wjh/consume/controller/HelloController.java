@@ -15,7 +15,7 @@ public class HelloController {
 
     @RequestMapping(value = "/echo/{string}", method = RequestMethod.GET)
     public String echo(@PathVariable String string) {
-        System.out.println("consum1e1");
+        System.out.println("consum11");
         return helloClinet.echo(string);
     }
 
