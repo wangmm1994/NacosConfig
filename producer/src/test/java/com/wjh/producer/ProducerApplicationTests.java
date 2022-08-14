@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class ProducerApplicationTests {
 
     @Test
-    void contextLoadss() {
+    void contextLoadsss() {
     }
 
 }
